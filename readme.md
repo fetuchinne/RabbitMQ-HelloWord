@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # Hello World com RabbitMQ em .NET
 
 Este projeto demonstra um fluxo simples de mensageria usando RabbitMQ em duas aplicações .NET:
@@ -153,4 +152,3 @@ flowchart LR
     A[Sender] --> B[MQ]
     B --> C[Receiver]
 ```
->>>>>>> 5fc266443d42e3f3c9d341980a458c8584f5b23d
